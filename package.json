@@ -1,0 +1,14 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "description": "Trabalho final automação de testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Fabio",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
